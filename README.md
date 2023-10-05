@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NiranjanaAjit
+- 👋 Hey, I’m Niranjana !
+- 👀 I’m interested in the applications of machine learning in businesses. 
+- 🌱 I’m currently learning about generative AI.
 <!---
-- 👀 I’m interested in machine learning in business
-- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 --->
 - 📫 Reach me via gmail: niranjana3121@gmail.com
